@@ -1,4 +1,0 @@
-
-MAC id: 52:94:65:99:66:59
-Timestamp: Fri Nov 17 14:36:03 2023
-Message: hello bob
